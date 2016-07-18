@@ -1,0 +1,15 @@
+Reference:
+
+http://scikit-learn.org/stable/auto_examples/svm/plot_svm_anova.html
+http://scikit-learn.org/stable/modules/generated/sklearn.feature_selection.SelectKBest.html
+http://scikit-learn.org/stable/modules/generated/sklearn.cross_validation.StratifiedShuffleSplit.html
+http://scikit-learn.org/stable/auto_examples/feature_selection/feature_selection_pipeline.html
+http://www.cnblogs.com/hhh5460/p/5132203.html
+http://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html
+http://scikit-learn.org/stable/modules/feature_selection.html
+http://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/
+http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+https://en.wikipedia.org/wiki/Cross-validation_(statistics)
+
+
+I hereby confirm that this submission is my work. I have cited above the origins of any parts of the submission that were taken from Websites, books, forums, blog posts, github repositories, etc.
